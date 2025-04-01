@@ -1,2 +1,2 @@
 # mcppy
-An mcp client written in Python.
+mcppy is a command line mcp client written in Python.
